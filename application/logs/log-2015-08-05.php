@@ -514,3 +514,45 @@ DEBUG - 2015-08-05 06:00:22 --> File loaded: application/views/template/menu_adm
 DEBUG - 2015-08-05 06:00:22 --> File loaded: application/views//template/template.php
 DEBUG - 2015-08-05 06:00:22 --> Final output sent to browser
 DEBUG - 2015-08-05 06:00:22 --> Total execution time: 0.0993
+DEBUG - 2015-08-05 09:33:12 --> Config Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Hooks Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Utf8 Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> UTF-8 Support Enabled
+DEBUG - 2015-08-05 09:33:12 --> URI Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Router Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Output Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Security Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Input Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> XSS Filtering completed
+DEBUG - 2015-08-05 09:33:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-08-05 09:33:12 --> Language Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Loader Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Helper loaded: url_helper
+DEBUG - 2015-08-05 09:33:12 --> Helper loaded: form_helper
+DEBUG - 2015-08-05 09:33:12 --> Helper loaded: breadcrumb_helper
+DEBUG - 2015-08-05 09:33:12 --> Database Driver Class Initialized
+ERROR - 2015-08-05 09:33:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/XAMPP/xamppfiles/htdocs/monitoring/system/database/drivers/mysql/mysql_driver.php 88
+DEBUG - 2015-08-05 09:33:12 --> Session Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Helper loaded: string_helper
+DEBUG - 2015-08-05 09:33:12 --> Encrypt Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Session routines successfully run
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Model Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Controller Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Form Validation Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-08-05 09:33:12 --> Pagination Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> Table Class Initialized
+DEBUG - 2015-08-05 09:33:12 --> File loaded: application/views/learn/index.php
+DEBUG - 2015-08-05 09:33:12 --> File loaded: application/views/template/menu_dashboard.php
+DEBUG - 2015-08-05 09:33:12 --> File loaded: application/views//template/template.php
+DEBUG - 2015-08-05 09:33:12 --> Final output sent to browser
+DEBUG - 2015-08-05 09:33:12 --> Total execution time: 0.0892
